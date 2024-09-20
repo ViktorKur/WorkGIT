@@ -48,3 +48,6 @@
 Чтобы вставить изображение в текст, необходимо сделать следующее
 ![Привет, это ХРЮНЯ](Hruna.jpeg)
 
+## Работа с ссылками
+![ссылка на справочник языка **Markdown**] (https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
+
